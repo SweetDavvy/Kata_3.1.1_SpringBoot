@@ -56,22 +56,18 @@ public class User {
     }
 
     public long getId() {
-
         return id;
     }
 
     public String getName() {
-
         return name;
     }
 
     public String getLastName() {
-
         return lastName;
     }
 
     public int getAge() {
-
         return age;
     }
 
